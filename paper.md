@@ -19,7 +19,7 @@ But the first arm had two open seams. Its combined join escaped its own join-kil
 
 The Pair Hunter campaign (PAIR-1) found and sample-verified this pair from the raw files and named it as its mint candidate — and its verification surfaced a structural defect that this arm's pre-registration exists to neutralise before any number is computed: a majority of the species the two datasets share carry the same number on both sides (§3).
 
-The audit question is unchanged from the first arm: in living mammals, what fraction of the cranial cavity does the brain occupy, and is the 100% identity (or the 90–100% folk band) defensible?
+The audit question is unchanged from the first arm: in living mammals, what fraction of the cranial cavity does the brain occupy, and is the 100% identity (or the 90–100% folk band) defensible? The background is settled and is not this arm's claim: Waugh & Thewissen (2021) established that occupancy varies across mammals (~33–98% on directly measured pairs) and is not 100%; their paired table anchors both arms. This arm's claims are the independent-subset statistic on the Burger ruler and the identical-value block documented in §3 — a circularity inside the join itself, for which no prior exists.
 
 ## 2. Datasets and measure
 
