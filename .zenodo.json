@@ -1,0 +1,30 @@
+{
+  "title": "Occupancy, Second Arm: On Independent Data the Brain Still Does Not Fill the Skull — and a Naive Join of the Same Data Appears to Prove That It Does",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "The first occupancy audit joined brain volumes to endocranial volumes (ECV) for 42 mammal species and found median occupancy 0.919 — but the brain ruler the fossil ecosystem actually uses, Burger et al. (2019), could not be joined at all, and the one arm pairing a compilation brain ruler with measured ECV had n = 10. This second arm runs the join the first arm wanted: Burger's brain-mass canon against Dembitzer et al.'s (2022) measured (Volume-method) endocast volumes, under a pre-registration frozen before any occupancy in this arm was computed. The two datasets share 129 extant species — but 71 of them (55.0%) carry the identical number on both sides: for 54 marsupials the \"ECV\" is Ashwell's (2008) brain-mass number, cited by both datasets, and for 17 primates it is Isler et al.'s (2008) table carried at two print precisions. Those species sit at occupancy 1.000 by construction and cannot test anything; the pre-registration excludes them before analysis. On the remaining 58 independent species, median occupancy is 0.932 (IQR 0.882–1.006) and 65.5% of species fall outside the 90–100% band — the first arm's verdict reproduced on a second brain ruler at roughly six times the bridge arm's n. A naive join of all 129 species, by contrast, reports 70.5% of species inside the band and appears to confirm the 100% identity: the identity's apparent support in this dataset pair is manufactured by the back-filled block. The central value is ruler-dependent (Waugh paired 0.920, first-arm combined 0.919, Burger-independent 0.932, Patzke bridge ~1.0); no single occupancy constant survives. The prediction scorecard is 5 pass, 1 fail (the registered size prediction, n ≥ 60, missed at 58 — above the registered kill floor of 40, so the arm stands). Keywords: endocranial volume; encephalisation quotient; occupancy; comparative neuroanatomy; data provenance; pre-registration",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "brain volume",
+    "endocranial volume",
+    "occupancy",
+    "independent replication",
+    "pre-registration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/occupancy-second-arm",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
