@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Occupancy, Second Arm: On Independent Data the Brain Still Does Not Fill the Skull — and a Naive Join of the Same Data Appears to Prove That It Does"
+authors:
+  - family-names: "Chourey"
+    given-names: "Atharva"
+    orcid: "https://orcid.org/0009-0009-9423-1718"
+    affiliation: "Atharva Chourey Lab — independent research lab"
+license: CC-BY-4.0
+repository-code: "https://github.com/atharva-chourey-lab/occupancy-second-arm"
+keywords:
+  - "brain volume"
+  - "endocranial volume"
+  - "occupancy"
+  - "independent replication"
+  - "pre-registration"
+version: "1.0.0-publication"
+date-released: "2026-11-20"
